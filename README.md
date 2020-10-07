@@ -2,13 +2,20 @@
 If this is your first time to open source contribution I have created this repo for all of you to start contributing.
 
 ## Hacktoberfest 
-![img](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
+
+
+## There are some steps you need to follow before contributing to the repository. 
+- Create a folder for the topic you wish to code! and add the respective files over it in different lanuage.
+- If a folder already exists, add your codes to it.
+- Always follow code structures as this helps the future learners in grasping the concept.
+- Comment your code as this helps the future learners in understanding the concept.
+
 
 ## Steps to contribute
 -  Fork the [repository](https://github.com/)
   -  Clone the fork [repo](https://github.com/advanceBytes/Code-Contribution)
-      - git clone https://github.com/ankitapuri/DSA-guide
-      - git clone https://github.com/<Your_Username>/DSA-guide
+      - git clone https://github.com/<Your_Username>/Code-Contribution
+      
   -  Create new branch 
      - git checkout -b (Your-Branch-Name)
 
@@ -27,12 +34,6 @@ If this is your first time to open source contribution I have created this repo 
    - Create pull requests
      - [Try to Mention the related issue for your PR]
 
-
-## There are some steps you need to follow before contributing to the repository. 
-- Create a folder for the topic you wish to code! and add the respective files over it in different lanuage.
-- If a folder already exists, add your codes to it.
-- Always follow code structures as this helps the future learners in grasping the concept.
-- Comment your code as this helps the future learners in understanding the concept.
 
 
 ### Congratulations!🎇

@@ -34,7 +34,7 @@ If this is your first time to open source contribution I have created this repo 
    - Create pull requests
      - [Try to Mention the related issue for your PR]
 
-
+### In the end it is required for you to follow the above rules.
 
 ### Congratulations!🎇
 You contributed to open source project & sit relax wait for review.!
